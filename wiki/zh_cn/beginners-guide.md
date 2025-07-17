@@ -13,7 +13,7 @@ description: 用正确的方式来为节奏光剑添加模组！
 ## 为游戏添加模组
 
 节奏光剑既可以在PC上游玩，也可以在Oculus Quest一体机上游玩。这两个平台添加模组的方式是不同的，
-所以新手指南又分为[PC模组](#pc-modding)与[Quest模组](#quest-modding)两个部分。
+所以新手指南又分为[PC模组](#PC模组)与[Quest模组](#Quest模组)两个部分。
 
 ### PC模组
 

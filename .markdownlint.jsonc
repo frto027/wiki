@@ -18,4 +18,6 @@
     ],
   },
   "ul-style": false,
+  "check-internal-title": true,
+  "check-localized-links": true,
 }
